@@ -16,3 +16,7 @@ The following data is available (Gnoni et al., 2003):
 3. Fixed cost asoociated with the production of each of the nine products and process intermediates. 
 4. Time required for production of each product. 
 5. Total time of the day for which processes run.
+
+## About GAMS
+GAMS is one of the leading tool providers for the optimization industry and was the first software system to combine the language of mathematical algebra with traditional programming concepts in order to efficiently describe and solve optimization problems.
+Reference: https://www.gams.com/
