@@ -1,6 +1,7 @@
 # ProductionScheduling
 
 Optimal production schedule of a multi-site manufacturing facility.
+Open 'Optimal Production Schedule.ipynb' for a complete walk-through.
 
 
 ![Title image](https://github.com/dkedar7/ProductionScheduling/blob/master/production/plant.PNG?raw=true)
